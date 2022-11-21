@@ -12,10 +12,7 @@ export default defineConfig((config) => {
           version,
           license,
           homepage,
-          match: [
-            'https://www.kinopoisk.ru/lists/categories/movies/*',
-            'https://www.kinopoisk.ru/lists/movies/*'
-          ]
+          match: 'https://www.kinopoisk.ru/**'
         },
         server: {
           port: 3000

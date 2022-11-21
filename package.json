@@ -19,6 +19,8 @@
     "vite-userscript-plugin": "^1.6.4"
   },
   "dependencies": {
+    "@zero-dependency/dom": "^0.11.1",
+    "@zero-dependency/storage": "^0.2.1",
     "redom": "^3.29.1"
   }
 }
