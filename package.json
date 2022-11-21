@@ -1,7 +1,7 @@
 {
-  "name": "vite-userscript-template",
+  "name": "kinopoisk-client-parser",
   "private": true,
-  "homepage": "https://crashmax-dev.github.io/vite-userscript-template/",
+  "homepage": "https://crashmax-dev.github.io/kinopoisk-client-parser/",
   "version": "0.0.1",
   "type": "module",
   "license": "MIT",
